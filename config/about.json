@@ -1,10 +1,10 @@
 {
-  "FirstLine": "第一行文本",
-  "SecondLine": "第二行文本",
-  "PhotoPath": "/images/zhr.jpg",
-  "ThirdLine": "第三行文本",
-  "Profile": "个人简介",
-  "Wechat": "微信号",
-  "QrcodePath": "",
-  "Email": "Email地址"
+  "FirstLine": "焦宁波",
+  "SecondLine": "Java工程师",
+  "PhotoPath": "/images/11.gif",
+  "ThirdLine": "我是一个有梦想的咸鱼",
+  "Profile": "1：热爱互联网行业</br>\r\n2：学习能力强</br>\r\n3：代码洁癖</br>\r\n4：责任心强</br>\r\n5：能承受工作压力</br>\r\n6：有良好的沟通和团队协作能力</br>",
+  "Wechat": "jiaoningbo136308",
+  "QrcodePath": "/images/98.gif",
+  "Email": "jiaoningbo@outlook.com"
 }

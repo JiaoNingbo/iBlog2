@@ -15,6 +15,7 @@
     "debug": "~2.2.0",
     "express": "~4.13.1",
     "express-session": "^1.13.0",
+    "forever-monitor": "^1.7.1",
     "i18n": "0.8.2",
     "jquery-file-upload-middleware": "^0.1.7",
     "moment": "^2.11.1",

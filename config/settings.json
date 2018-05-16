@@ -1,7 +1,7 @@
 {
   "SiteName": "iBlog",
-  "SiteDomain": "www.example.com",
-  "RecordNo": "浙ICP备XXX号",
+  "SiteDomain": "http://blog.jiaoningbo.com",
+  "RecordNo": "京ICP备18017723号-1",
   "LogoPath": "/images/zhr.jpg",
   "PageSize": "10",
   "ExpandMenu": "false",
